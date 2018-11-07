@@ -1,6 +1,9 @@
 import Vue from 'vue'
 import App from './App'
 
+// 引入基础样式
+import './styles/base.css'
+
 Vue.config.productionTip = false
 App.mpType = 'app'
 
